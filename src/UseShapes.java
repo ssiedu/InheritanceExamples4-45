@@ -3,6 +3,9 @@ public class UseShapes {
 
     public static void main(String[] args) {
 
+        Shape s1=new Circle();
+        Shape s2=new Cylinder();
+        /*
         Circle c1=new Circle();
         c1.setRadius(10);
         c1.computeArea();
@@ -13,6 +16,6 @@ public class UseShapes {
         c2.setHeight(20);
         c2.computeArea();
         c2.showArea();
-        
+        */
     }
 }
